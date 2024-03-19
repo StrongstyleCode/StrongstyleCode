@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StrongstyleCode
-- 👀 I’m interested in Software Development, Pro Wrestling, and Gaming
+- 👀 I’m interested in Software Development, Pro Wrestling, Gaming and AI
 - 🌱 I’m currently developing using .NET/Angular
 - 💞️ I’m looking to collaborate on anything new and exciting
 - 📫 How to reach me strongstylesz@gmail.com
